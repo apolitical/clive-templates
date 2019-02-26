@@ -1,0 +1,8 @@
+owned_files:
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - LICENSE
+
+replacements:
+  app.issues_url:
+  app.pr_url:
